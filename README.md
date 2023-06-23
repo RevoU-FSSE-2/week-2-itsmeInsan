@@ -2,15 +2,15 @@
 
 # TUGAS WEEK-2
 Saya membuat website resposive tentang Food E-commers. Goal pada tugas ini antara lain:
-![Alt screenshot-goals](Screenshot\image.png)
+![Alt screenshot-goals](image.png)
 Website ini support resolusi 1440px(dekstop)-320px(mobile).
 ## Header Website
-![Alt screenshot header website](Screenshot\image-1.png)
+![Alt screenshot header website](image-1.png)
 Header ini memiliki beberapa element antara lain:
 
 1.Icon website - gambar uncle muthu<br>2.Judul website - saya pake tag b (supaya fontnya bold)<br>3.Beberapa Icon(mail,cart-shop,magnifying-glass)<br>4.image untuk photo profile<br><br>
 ## Body Website
-![Alt Screenshoot Body website ](Screenshot\image-2.png)
+![Alt Screenshoot Body website ](image-2.png)
 Pertama Halaman selamat datang.Ini saya pakai H2 dan p.H2 untuk Welcome to my Shop! sedangkan p untuk penjelasan makananya dan promosi. Saya pakai flex terus di flex-direction: coloumn kemudian di justify-content: center kemudian diberi warna orange. berikut codenya.
 ``` 
 .halaman-welcome{
@@ -95,34 +95,35 @@ untuk cssnya
 }
 ```
 Kemudian ada video profile terkait uncle muthu. Saya pakai element source kemudian diemmbed link videonya.<br>
-![Alt screenshot video uncle muthu](Screenshot\image-3.png)
+![Alt screenshot video uncle muthu](image-3.png)
 Kemudian ada form pendaftaran yang berisi<br>
 1.Nama<br>2.Birth date<br>3.Email<br>4.Pertanyaan"apakah kamu tinggal di Malaysia<br>5.Pertanyaan "Kenapa kamu tertarik join ke shop kami"<br>6.Submmit CV<br>7.Pertanyaan apakah yang kamu isi sudah benar?<br>8.Button Submit<br><br>
 Berikut Gambar formnya.<br>
-![Alt Screenshot form pendaftaran](Screenshot\image-4.png)
+![Alt Screenshot form pendaftaran](image-4.png)
 Saya pakai fieldshet dengan lengendnya sendiri. Nama, saya pakai input type text. birthday date, saya pakai input date. Email, Saya menggunakan input type email. Kemudian apakah kamu tinggal di Malaysia? Jawaban saya  pakai input type radio dengan jawaban yes atau no. Kemudian untuk pertanyaan kenapa kamu tertarik join? jawabannya saya pakai text area. Penyisipan file CV saya pakai input type file /.pdf (format pdf). Pertanyaan terakhir jawabannya saya pakai checkbox. Terakhir button submit. formnya saya pakai display flex kemudian flex-direction: coloumn kemudian justify-content: center.
 
 ## RESPONSIVE 
 saya buat dua media query max-width 1440px dan max-width 320px.Codingannya bisa dilihat direpository saya.Berikut screenshotnya.
 ### Dekstop
-![Alt Screenshot 1440px](Screenshot\image-5.png)
+![Alt Screenshot 1440px](image-5.png)
 Screeshot website resolusi 1440px
-![Alt Screenshot 1024px](Screenshot\image-7.png)
+![Alt Screenshot 1024px](image-7.png)
 Screenshot website resolusi 1024px
 ### Tablet
-![Alt Screenshot 768px](Screenshot\image-8.png)
+![Alt Screenshot 768px](image-8.png)
 Screenshot website resolusi 768px
 ### Mobile
-![Alt Screenshot 425px](Screenshot\image-9.png)
+![Alt Screenshot 425px](image-9.png)
 Screenshot website resolusi 425px
-![Alt Screenshot ](Screenshot\image-10.png)
+![Alt Screenshot ](image-10.png)
 Screenshot website 320px
 
 ## Menu Bar
-![Alt Hover:on](Screenshot\image-11.png)
+![Alt Hover:on](image-11.png)
 Hover on
-![Alt Hover:off](Screenshot\image-12.png)
+![Alt Hover:off](image-12.png)
 Hover off
 
-
+# Link WEBSITE
+snazzy-stroopwafel-ec31cf.netlify.app
 
